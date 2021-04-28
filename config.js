@@ -10,10 +10,12 @@ var config = {
         "第三個生日哦",
         "放心放心",
         "某豬已經在計劃第四個生日啦",
-        "今年要和爸爸妈妈一起庆祝生日呀",
+        "今年要和爸爸媽媽一起慶祝生日呀",
         "希望大家都 Take a Thai Break 🥭",
-        "把我家树熊宝喂饱饱",
-        "然后一把抱走",
+        "樹熊寶要开开心心，食飽飽~",
+        "咦, 那猪猪呢？",
+        "在呀在呀~",
+        "嘿嘿給你个大抱抱",
         "溜了溜了~",
     ],
     /**
@@ -27,18 +29,18 @@ var config = {
      */
     imgs: {
         "最最中意既小朋友": "./imgs/邝生.jpg",
-        "然后一把抱走": "./imgs/wechat.jpg",
+        "在呀在呀~": "./imgs/wechat.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "咦，不要點這裏",
         play: "來點音樂？",
-        bannar_coming: "xxx",
-        balloons_flying: "好像少点东西",
+        bannar_coming: "有🎈气球耶",
+        balloons_flying: "好像少點東西",
         cake_fadein: "蛋糕呢~~",
         light_candle: "噓~點上蠟燭，許個願",
         wish_message: "鄺小朋友生日快樂！",
-        story: "Birthday card~~",
+        story: "Birthday card~",
     }
 };
