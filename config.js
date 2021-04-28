@@ -41,6 +41,6 @@ var config = {
         cake_fadein: "蛋糕呢~~",
         light_candle: "噓~點上蠟燭，許個願",
         wish_message: "鄺小朋友生日快樂！",
-        story: "Birthday card~",
+        story: "Birthday Card~",
     }
 };
